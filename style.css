@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto:wght@100&family=Ubuntu:ital,wght@0,300;1,300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+header{
+  position: sticky;
+  top: 0;
+  background: white;
+}
+.left img{
+  width:112px;
+  height:72px;
+}
+
+.container{
+  padding:0 10vw;
+  margin:auto;
+}
+
+nav ul li{
+  list-style:none;
+  padding:0 12px;
+}
+
+.section1{
+  background:#e6e0e0;
+  height:122vh;
+}
